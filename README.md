@@ -45,5 +45,5 @@ I am a Data Professional with expertise in **Excel, Python, SQL, and Power BI**.
 
 ### 📫 Connect with Me
 * **LinkedIn:** [(https://www.linkedin.com/in/vishal-biswas-829962345/)]
-* **Portfolio/GitHub:** [Insert Your GitHub Profile Link Here]
+* **Portfolio/GitHub:** [[Insert Your GitHub Profile Link Here]](https://github.com/vishalbiswas625/Sales-and-Product-Analytics-Dashboard/tree/main)
 * 
