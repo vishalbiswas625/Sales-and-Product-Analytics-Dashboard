@@ -44,6 +44,6 @@ I am a Data Professional with expertise in **Excel, Python, SQL, and Power BI**.
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+* **LinkedIn:** [(https://www.linkedin.com/in/vishal-biswas-829962345/)]
 * **Portfolio/GitHub:** [Insert Your GitHub Profile Link Here]
 * 
