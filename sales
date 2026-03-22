@@ -1,0 +1,44 @@
+# 📊 Sales and Product Analytics Dashboard (Power BI)
+
+## 🌟 Project Overview
+This project provides a comprehensive analysis of sales performance and product metrics. The goal was to transform raw sales data into actionable business insights using **Power BI**, focusing on revenue trends, employee performance, and product popularity.
+
+---
+
+## 🚀 Key Insights & Features
+
+### 1. Revenue Performance
+* **Total Revenue:** Generated over **$19.80 Crore** in total sales.
+* **Peak Growth:** Identified 2015 as the peak fiscal year with **$54M** in revenue.
+* **Regional Sales:** Visualized geographic sales distribution across North America and Europe.
+
+### 2. Employee Productivity
+* Developed a **Treemap** to track revenue by employees.
+* Key Performers: **Archer Lamble** and **Kayla Woodcock** contributed significantly, each generating approximately **$18M**.
+
+### 3. Product Deep-Dive
+* Analyzed sales by **Size and Color**.
+* Identified "White chocolate snow balls" as a high-volume product.
+* Tracked profit margins across different product categories.
+
+---
+
+## 🛠 Tools & Technologies Used
+* **Power BI Desktop:** Data Visualization, Modeling, and Report Design.
+* **DAX (Data Analysis Expressions):** Created custom measures for Profit, Total Revenue, and Quantity Sold.
+* **Power Query:** Data cleaning and transformation.
+* **SQL:** Used for initial data extraction and understanding relationships.
+
+---
+
+## 📂 How to View the Project
+1. Download the `.pbix` file from this repository.
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. You can interact with the filters (Fiscal Year, Buying Group, Color) to see dynamic updates.
+
+---
+
+## 👨‍💻 About Me
+I am a Data Professional skilled in **Excel, Python, SQL, and Power BI**, currently focusing on Cloud Data Engineering with **Databricks**. I love solving business problems through data-driven storytelling.
+
+---
