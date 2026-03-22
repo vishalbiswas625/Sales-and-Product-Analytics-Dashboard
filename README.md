@@ -42,6 +42,9 @@ This project presents a dynamic and interactive **Power BI Dashboard** designed 
 I am a Data Professional with expertise in **Excel, Python, SQL, and Power BI**. Currently, I am expanding my skills into Cloud Data Engineering with **Databricks**. I am passionate about using data to solve real-world business problems.
 
 ---
+## 📷 Dashboard Preview
+<img width="1370" height="750" alt="Screenshot 2026-03-22 154428" src="https://github.com/user-attachments/assets/8c9e7ee1-ab68-4bb0-9e52-c9acf59d474d" />
+
 
 ### 📫 Connect with Me
 * **LinkedIn:** [(https://www.linkedin.com/in/vishal-biswas-829962345/)]
