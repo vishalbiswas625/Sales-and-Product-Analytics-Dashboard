@@ -44,6 +44,7 @@ I am a Data Professional with expertise in **Excel, Python, SQL, and Power BI**.
 ---
 ## 📷 Dashboard Preview
 <img width="1370" height="750" alt="Screenshot 2026-03-22 154428" src="https://github.com/user-attachments/assets/8c9e7ee1-ab68-4bb0-9e52-c9acf59d474d" />
+<img width="1370" height="750" alt="Screenshot 2026-03-22 154428" src="https://github.com/user-attachments/assets/6a211b12-14a7-404b-a47a-8379ffb6e9ed" />
 
 
 ### 📫 Connect with Me
